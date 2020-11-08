@@ -1,0 +1,11 @@
+{
+	"comment": "this dictionary contains the necessary information to run nam_model_download.py",
+	"comment": "dates must be in ISO 8601 format",
+	"comment": "set the pressure level in mbar which you want wind speed and direction from",
+	"start_date": "2015-01-01",
+	"end_date": "2020-06-01",
+	"pressure_levels": {"1": "650", "2": "700", "3": "750", "4": "800", "5": "850", "6": "900"},
+	"requested_lat": "50.058612",
+	"requested_lon": "-122.956324",
+	"relative_data_path": "../data/raw"
+}

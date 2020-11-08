@@ -1,0 +1,11 @@
+wb_ml_venv/
+__pycache__
+geckodriver.log
+*.egg-info
+.ipynb_checkpoints
+scratch_pad.html
+scratch_pad.ipynb
+scratch_pad.py
+untitled.html
+untitled.txt
+nam_data.csv
